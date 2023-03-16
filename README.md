@@ -4,7 +4,7 @@
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
-```
+```bash
 npx create-remix@latest --template remix-run/blues-stack
 ```
 
